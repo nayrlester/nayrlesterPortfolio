@@ -113,7 +113,7 @@
             <p>Developed Applications using Node.js technology like realtime weather updates for kiosk in Australia, AWS like server , Carp detector etc.</p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">July 2010 - December 2011</span>
+            <span class="text-primary">July 2018 - December 2019</span>
           </div>
         </div>
 
