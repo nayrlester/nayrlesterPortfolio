@@ -49,6 +49,9 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#project">Projects</a>
+        </li>
       </ul>
     </div>
   </nav>
@@ -219,6 +222,45 @@
     </section>
 
     <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="project">
+      <div class="w-100">
+        <h2 class="mb-5">Projects</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">https://ecommerce.jumpdigital.asia/</h3>
+            <div class="subheading mb-3">E-commerce platform for myanmar</div>
+            <img style="height: 500px;" src="img/burmart.png" class="img-fluid">
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">https://scraper.virtumeeting.com/</h3>
+            <div class="subheading mb-3">realtime kiosk based weather forecast for australia beach</div>
+            <img style="height: 500px;" src="img/kiosk.png" class="img-fluid">
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">https://hsnservice.com/</h3>
+            <div class="subheading mb-3">HSN service percfection website</div>
+            <img style="height: 500px;" src="img/hsn.png" class="img-fluid">
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">https://acer-ams.appspot.com/client/index.php</h3>
+            <div class="subheading mb-3">Client and Admin portal for acer HRIS with timesheet Record</div>
+            <img style="height: 500px;" src="img/acer.png" class="img-fluid">
+          </div>
+        </div>
+
+      </div>
+    </section>
 
   </div>
 
