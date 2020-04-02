@@ -102,7 +102,7 @@
             <p>Create e-commerce Web Application using Ruby on Rails.</p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">April 2019 - Present</span>
+            <span class="text-primary">April 2019 - April 2020</span>
           </div>
         </div>
 
